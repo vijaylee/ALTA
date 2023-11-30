@@ -1,0 +1,45 @@
+dataset:
+  name: seq-tinyimagenet
+  image_size: 224
+  num_workers: 4
+  n_classes_per_task: 20
+  n_tasks: 10
+
+model:
+  pretrained: True
+  use_replay: False
+
+OPTIM:
+  NAME: "sgd"
+  LR: 0.002
+  WEIGHT_DECAY: 0.0005
+  MOMENTUM: 0.9
+  SGD_DAMPNING: 0
+  SGD_NESTEROV: False
+  RMSPROP_ALPHA: 0.99
+  ADAM_BETA1: 0.9
+  ADAM_BETA2: 0.999
+  STAGED_LR: False
+  NEW_LAYERS: ()
+  BASE_LR_MULT: 0.1
+  MAX_EPOCH: 30
+  WARMUP_EPOCH: 1
+  WARMUP_TYPE: "constant"
+  WARMUP_CONS_LR: 0.00001
+  WARMUP_RECOUNT: True
+
+TRAINER:
+  COOP:
+    N_CTX: 4
+    CTX_INIT: "a photo of a"
+    CLASS_TOKEN_POSITION: "end"
+
+train:
+  batch_size: 32
+  alpha: 0.4
+  beta: 0.4
+  num_classes: 200
+
+eval:
+  test_epochs: 10
+  batch_size: 32
