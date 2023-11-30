@@ -1,7 +1,7 @@
 # Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning
 This is the *Pytorch Implementation* for the paper Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning
 
-**Authors**: [Wujin Li](https://scholar.google.com/citations?user=QONFCAkAAAAJ&hl=zh-CN&oi=sra), [Bin-Bin Gao](https://scholar.google.com/citations?user=yYviZ-oAAAAJ&hl=zh-CN&oi=sra), [Bizhong Xia](), [Jinbao Wang](https://scholar.google.com/citations?hl=zh-CN&user=qI80ipUAAAAJ&view_op=list_works&sortby=pubdate), [Xi Jiang](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=XtU4nDYAAAAJ), [Junhong Zhou](), [Yong Liu](https://scholar.google.com/citations?user=aqvFa1EAAAAJ&hl=zh-CN&oi=sra), [Chengjie Wang](https://scholar.google.com/citations?user=fqte5H4AAAAJ&hl=zh-CN), [Feng Zheng](https://scholar.google.com/citations?hl=zh-CN&user=PcmyXHMAAAAJ&view_op=list_works&sortby=pubdate)
+**Authors**: [Wujin Li](https://scholar.google.com/citations?user=QONFCAkAAAAJ&hl=zh-CN&oi=sra), [Bin-Bin Gao](https://scholar.google.com/citations?user=yYviZ-oAAAAJ&hl=zh-CN&oi=sra), [Bizhong Xia](), [Jinbao Wang](https://scholar.google.com/citations?hl=zh-CN&user=qI80ipUAAAAJ&view_op=list_works&sortby=pubdate), [Yong Liu](https://scholar.google.com/citations?user=aqvFa1EAAAAJ&hl=zh-CN&oi=sra), [Chengjie Wang](https://scholar.google.com/citations?user=fqte5H4AAAAJ&hl=zh-CN), [Feng Zheng](https://scholar.google.com/citations?hl=zh-CN&user=PcmyXHMAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Abstract
 <img align="middle" width="700" src="./pipeline.png">
