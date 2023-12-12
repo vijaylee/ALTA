@@ -17,7 +17,7 @@ __Contribution of this work__
 ```
 $ pip install -r requirements.txt
 ```
-Change `--cifar10_dir`, `--cifar100_dir`, and `--tinyimagenet_dir` in `arguments.py` to your file path.
+Before running the program, change `--cifar10_dir`, `--cifar100_dir`, and `--tinyimagenet_dir` in `arguments.py` to your file path.
 
 ## Run
 ```
