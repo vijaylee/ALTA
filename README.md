@@ -3,6 +3,9 @@ This is the *Pytorch Implementation* for the paper Cross-Modal Alternating Learn
 
 **Authors**: [Wujin Li](https://scholar.google.com/citations?user=QONFCAkAAAAJ&hl=zh-CN&oi=sra), [Bin-Bin Gao](https://scholar.google.com/citations?user=yYviZ-oAAAAJ&hl=zh-CN&oi=sra), [Bizhong Xia](), [Jinbao Wang](https://scholar.google.com/citations?hl=zh-CN&user=qI80ipUAAAAJ&view_op=list_works&sortby=pubdate), [Yong Liu](https://scholar.google.com/citations?user=aqvFa1EAAAAJ&hl=zh-CN&oi=sra), [Chengjie Wang](https://scholar.google.com/citations?user=fqte5H4AAAAJ&hl=zh-CN), [Feng Zheng](https://scholar.google.com/citations?hl=zh-CN&user=PcmyXHMAAAAJ&view_op=list_works&sortby=pubdate)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-modal-alternating-learning-with-task/continual-learning-on-cifar100-10-tasks)](https://paperswithcode.com/sota/continual-learning-on-cifar100-10-tasks?p=cross-modal-alternating-learning-with-task)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-modal-alternating-learning-with-task/continual-learning-on-tiny-imagenet-10tasks)](https://paperswithcode.com/sota/continual-learning-on-tiny-imagenet-10tasks?p=cross-modal-alternating-learning-with-task)
+
 ## Abstract
 <img align="middle" width="700" src="./pipeline.png">
 
