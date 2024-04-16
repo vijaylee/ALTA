@@ -1,5 +1,5 @@
 # Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning
-This is the *official Pytorch Implementation* for the paper Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning (IEEE TMM 2023).
+This is the *official Pytorch Implementation* for the paper [Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning](https://ieeexplore.ieee.org/document/10347466) (IEEE TMM 2023).
 
 **Authors**: [Wujin Li](https://scholar.google.com/citations?user=QONFCAkAAAAJ&hl=zh-CN&oi=sra), [Bin-Bin Gao](https://scholar.google.com/citations?user=yYviZ-oAAAAJ&hl=zh-CN&oi=sra), [Bizhong Xia](), [Jinbao Wang](https://scholar.google.com/citations?hl=zh-CN&user=qI80ipUAAAAJ&view_op=list_works&sortby=pubdate), [Yong Liu](https://scholar.google.com/citations?user=aqvFa1EAAAAJ&hl=zh-CN&oi=sra), [Chengjie Wang](https://scholar.google.com/citations?user=fqte5H4AAAAJ&hl=zh-CN), [Feng Zheng](https://scholar.google.com/citations?hl=zh-CN&user=PcmyXHMAAAAJ&view_op=list_works&sortby=pubdate)
 
