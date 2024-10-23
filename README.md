@@ -20,9 +20,9 @@ __Contribution of this work__
 ```
 $ pip install -r requirements.txt
 ```
-Before running the program, change `--cifar10_dir`, `--cifar100_dir`, and `--tinyimagenet_dir` in `arguments.py` to your file path.
 
 ## Run
+Before running the program, change `--cifar10_dir`, `--cifar100_dir`, and `--tinyimagenet_dir` in `arguments.py` to your file path.
 ```
 $ python main.py --config-file configs/xxx.yaml --method xxx --il_setting xxx --visual xxx --buffer_size xxx --seed xxx
 ```
