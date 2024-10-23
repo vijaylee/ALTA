@@ -43,5 +43,12 @@ The code is build upon [KaiyangZhou/CoOp](https://github.com/KaiyangZhou/CoOp) a
 
 ## Citation
 If you found the provided code useful, please cite our work.
-
-
+```
+@article{li2023cross,
+  title={Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning},
+  author={Li, Wujin and Gao, Bin-Bin and Xia, Bizhong and Wang, Jinbao and Liu, Jun and Liu, Yong and Wang, Chengjie and Zheng, Feng},
+  journal={IEEE Transactions on Multimedia},
+  year={2023},
+  publisher={IEEE}
+}
+```
